@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDo-ne</string>
+    <string name="DATA_KEY">data_file</string>
+    <string name="title_key">title_key</string>
+    <string name="date_key">date_key</string>
+    <string name="time_key">time_key</string>
+    <string name="priority_key">priority_key</string>
+</resources>
